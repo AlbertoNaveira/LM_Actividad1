@@ -98,33 +98,6 @@ header{
     background-color: rgb(7, 7, 7)393;
 }
 
-.social-links {
-    margin-top: 60px;
-    position: fixed;
-    top: 0;
-    right: 0;
-    background-color: #000;
-    text-align: center;
-    padding: 20px 10px;
-    height: 275px; 
-    width: 50px;
-    display: flex;
-    flex-direction: column;
-    gap: 15px; 
-    overflow:hidden;
-    font-size: 11px;
-}
-
-.social-links a {
-    display: block;
-    margin: 10px 0;
-    text-decoration: none;
-    color: white;
-}
-
-.social-links a:hover {
-    color: #8a8989;
-}
 
 footer {
     background-color: white; 
